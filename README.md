@@ -35,3 +35,10 @@ No prior experience with Linux is required, but if you have some knowledge of th
 
 ![Program](./images/lls%20program.png)
 
+## Access Linux Terminal Online
+
+1. Visit [www.webminal.org](https://www.webminal.org/)
+2. Click on `Terminal` to launch the terminal
+3. Register 
+4. Verify your accout and Login
+
