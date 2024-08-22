@@ -42,3 +42,16 @@ No prior experience with Linux is required, but if you have some knowledge of th
 3. Register 
 4. Verify your accout and Login
 
+## Learn Shell Scripting
+
+1. Visit [Shell-scripting-ii](https://github.com/kadimasum/shell-scripting-ii)
+
+## Linux Learning Series Slides
+
+1. Linux Basics [Slides](https://docs.google.com/presentation/d/1oSzvCPiFhPDPVaWzCt-zJPV0cvpVo_StjR86U4v5gw4/edit?usp=sharing)
+
+## Join Nairobi DevOps Community(Scan the QR Codes)
+
+![NDC Socials](./images/join%20ndc.png)
+
+
