@@ -1,4 +1,4 @@
-#!/bin/bash
+    #!/bin/bash
 
 # System Monitor Script
 # This script monitors CPU, Memory, and Disk usage and alerts if they exceed the defined thresholds.

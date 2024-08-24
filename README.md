@@ -50,7 +50,7 @@ No prior experience with Linux is required, but if you have some knowledge of th
 
 1. Linux Basics [Slides](https://docs.google.com/presentation/d/1oSzvCPiFhPDPVaWzCt-zJPV0cvpVo_StjR86U4v5gw4/edit?usp=sharing)
 2. Linux Administration [Slides](https://docs.google.com/presentation/d/17JxCwPaOdcg5q_jTOl7m0IMPh5O-Cr62jeQ7CS_uoWU/edit#slide=id.g2f55f131383_0_1233)
-
+3. Linux Networking & Security [Slides](./images/Basic%20Linux%20%20Security%20Networking.pptx)
 ## Join Nairobi DevOps Community(Scan the QR Codes)
 
 ![NDC Socials](./images/join%20ndc.png)
